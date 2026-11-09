@@ -1,0 +1,19 @@
+{
+  "feature_columns": [
+    "step",
+    "amount",
+    "oldbalanceOrg",
+    "newbalanceOrig",
+    "oldbalanceDest",
+    "newbalanceDest",
+    "CASH_OUT",
+    "DEBIT",
+    "PAYMENT",
+    "TRANSFER",
+    "payment_type_CASH_OUT",
+    "payment_type_DEBIT",
+    "payment_type_PAYMENT",
+    "payment_type_TRANSFER"
+  ],
+  "threshold": 0.5
+}
